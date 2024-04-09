@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @fmp63
-- 👀 I’m interested in ML, AI, python, analogue photography
+- 👀 I’m interested in ML, AI, python, analogue photography and music
 - 🌱 I’m currently learning using Docker Container
 
 <!---
